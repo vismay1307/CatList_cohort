@@ -1,12 +1,13 @@
 
 import './App.css'
+import CatList from './components/CatList'
 
 function App() {
 
 
   return (
     <>
-      <h1>catss</h1>
+      <CatList/>
     </>
   )
 }
